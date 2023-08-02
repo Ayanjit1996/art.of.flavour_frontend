@@ -1,0 +1,206 @@
+/* img {
+  position: absolute;  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  opacity: 0.7;
+}
+
+#root{
+    position: relative; 
+}
+
+.logo{
+    margin-left: 10px;
+    width: 60px; 
+    height: 60px;
+    opacity: 1 !important;
+    z-index: 1;
+} */
+
+/* .border_all {
+  border: solid black 2px !important;
+}
+
+@media (min-width: 900px) {
+  #base_image{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100vh;
+    opacity: 0.3;
+  }
+  .main_container {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 100vh;
+  }
+  .sidebar {
+    width: 30%;
+  }
+  .sidebar_content {
+    height: 100vh;
+    flex-direction: column;
+  }
+  .sidebar_header {
+    display: flex;
+    height: 20vh;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(255, 241, 224);
+  }
+  .logo_name {
+    display: block;
+    padding-top: 20px;
+    text-align: center;
+    color: rgb(123, 72, 21);
+  }
+  .logo_name:hover {
+    text-decoration: none;
+    color: brown;
+  }
+  .logo_all{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+  .caption {
+    text-align: center;
+    color: rgb(184, 119, 33);
+  }
+  .sidebar_artwork {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    height: 80vh;
+  }
+  .art {
+    width: 100%;
+    height: 80vh;
+  }
+
+  section {
+    display: block;
+  }
+
+  .navbar {
+    position: relative;
+    z-index: 1;
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  main {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    height: 88vh;
+  }
+  .inside_container {
+    width: 40%;
+  }
+  .auth_section {
+    width: 70%;
+    height: 100%;
+  }
+  .auth_content {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+  }
+  .banner {
+    text-align: left;
+    font-weight: bolder;
+  }
+  .google_signin {
+    display: flex;
+  }
+  hr {
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+  }
+  hr.divider {
+    margin-bottom: 10px;
+    padding: 0;
+    overflow: visible;
+    border: none;
+    border-top: 1px solid #e0e0e0;
+    color: #6e6d7a;
+    text-align: center;
+  }
+  hr.divider:after {
+    content: "Or";
+    display: inline-block;
+    position: relative;
+    top: -14px;
+    padding: 0 16px;
+    background: #fff;
+    font: normal 14px/14px
+      var(
+        --font-face,
+        "Haas Grot Text R Web",
+        "Helvetica Neue",
+        Helvetica,
+        Arial,
+        sans-serif
+      );
+  }
+  .submit {
+    border: none !important;
+    margin-left: 205px !important;
+    margin-top: 20px;
+    background-color: rgb(184, 119, 33);
+    font-weight: bold;
+    width: 200px;
+    box-shadow: 0 0 2px 2px rgba(97, 48, 2, 0.2);
+  }
+  .submit:hover{
+    background-color: brown;
+    box-shadow: 0 0 3px 3px rgba(97, 48, 2, 0.2);
+  }
+  .logo{
+    height: 40px;
+    width: 40px;
+    margin-top: 12px;
+  }
+  input{
+    background-color: rgb(255, 241, 224) !important;
+    box-shadow: 0 0 2px 2px rgb(226, 182, 128);
+  }
+  input:hover{
+    background-color: rgb(255, 241, 224) !important;
+    box-shadow: 0 0 3px 3px rgb(226, 182, 128);
+  }
+  h6{
+    font-weight: 500;
+  }
+  .form-check{
+    margin-left: 320px !important;
+    padding-top: 5px !important;
+  }
+  #exampleCheck1{
+    box-shadow: none;
+  }
+  #Signup_title{
+    text-decoration: none;
+    color: rgb(184, 119, 33);
+  }
+  #Signup_title:hover{
+    color: rgb(217, 42, 3); 
+  }
+} */
